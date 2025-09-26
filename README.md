@@ -59,8 +59,6 @@ direction LR
     Court "*" --> "1" CourtType : +type
 ```
 
-(Aquí iría la imagen del diagrama de clases)
-
 - **PaddleManager (Control):** Gestiona clientes y pistas.
 - **Customer:** Representa a un cliente con nombre, apellido y dirección.
 - **Member:** Un tipo de cliente que acumula puntos.
